@@ -19,9 +19,9 @@ export default function SearchHeader() {
       <div className="flex w-full p-6 items-center">
         <Image
           onClick={() => router.push("/")}
-          width="120"
+          width="220"
           objectFit="contain"
-          height="40"
+          height="140"
           className="cursor-pointer"
           src="https://media1.nguoiduatin.vn/media/vu-thu-huong/2019/12/19/anh-google.png"
           alt="Photo"

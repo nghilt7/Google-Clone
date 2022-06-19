@@ -8,28 +8,30 @@ export default {
   queries: {
     request: [
       {
-        title: "Google Custom Search - tanghi",
-        totalResults: "145000",
-        searchTerms: "tanghi",
+        title: "Google Custom Search - tailwind css",
+        totalResults: "37600000",
+        searchTerms: "tailwind css",
         count: 10,
         startIndex: 1,
         inputEncoding: "utf8",
         outputEncoding: "utf8",
         safe: "off",
         cx: "1d0c26cdd35220b68",
+        searchType: "image",
       },
     ],
     nextPage: [
       {
-        title: "Google Custom Search - tanghi",
-        totalResults: "145000",
-        searchTerms: "tanghi",
+        title: "Google Custom Search - tailwind css",
+        totalResults: "37600000",
+        searchTerms: "tailwind css",
         count: 10,
         startIndex: 11,
         inputEncoding: "utf8",
         outputEncoding: "utf8",
         safe: "off",
         cx: "1d0c26cdd35220b68",
+        searchType: "image",
       },
     ],
   },
@@ -37,504 +39,236 @@ export default {
     title: "go-clone",
   },
   searchInformation: {
-    searchTime: 0.428101,
-    formattedSearchTime: "0.43",
-    totalResults: "145000",
-    formattedTotalResults: "145,000",
+    searchTime: 0.403342,
+    formattedSearchTime: "0.40",
+    totalResults: "37600000",
+    formattedTotalResults: "37,600,000",
   },
   items: [
     {
       kind: "customsearch#result",
-      title: "Tanghi argentini (Short 2006) - IMDb",
-      htmlTitle: "<b>Tanghi</b> argentini (Short 2006) - IMDb",
-      link: "https://www.imdb.com/title/tt0812387/",
-      displayLink: "www.imdb.com",
-      snippet:
-        "Tanghi argentini: Directed by Guy Thys. With Dirk van Dijck, Koen van Impe, Hilde Norga, Mathias Sercu. An office clerk with a hankering to tango enlists ...",
-      htmlSnippet:
-        "<b>Tanghi</b> argentini: Directed by Guy Thys. With Dirk van Dijck, Koen van Impe, Hilde Norga, Mathias Sercu. An office clerk with a hankering to tango enlists&nbsp;...",
-      cacheId: "BZMRFniKrXAJ",
-      formattedUrl: "https://www.imdb.com/title/tt0812387/",
-      htmlFormattedUrl: "https://www.imdb.com/title/tt0812387/",
-      pagemap: {
-        cse_thumbnail: [
-          {
-            src: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSeUNfFF9nH1tWkNw5AoDVoQCUUH_MiFzRH1gDZk5s-Uu3mwRD9WRqtOsE",
-            width: "194",
-            height: "259",
-          },
-        ],
-        metatags: [
-          {
-            "og:image":
-              "https://m.media-amazon.com/images/M/MV5BMGM4YmNkZDUtYzVkOS00NGVhLTliOWYtZTRlZjcxYzVhZTdjXkEyXkFqcGdeQXVyMjExNjgyMTc@._V1_FMjpg_UX1000_.jpg",
-            "og:type": "video.movie",
-            "og:image:width": "1000",
-            "twitter:title": "Tanghi argentini (Short 2006) - IMDb",
-            "twitter:card": "summary_large_image",
-            "imdb:subpagetype": "main",
-            "og:site_name": "IMDb",
-            "og:title": "Tanghi argentini (Short 2006) - IMDb",
-            "imdb:pageconst": "tt0812387",
-            "og:image:height": "1333.3333333333333",
-            "og:description":
-              "Tanghi argentini: Directed by Guy Thys. With Dirk van Dijck, Koen van Impe, Hilde Norga, Mathias Sercu. An office clerk with a hankering to tango enlists the support of a workplace colleague as he prepares for a date. It's Christmas time and the concept of giving assumes fairy tale proportions in this beguiling modern story.",
-            "twitter:image":
-              "https://m.media-amazon.com/images/M/MV5BMGM4YmNkZDUtYzVkOS00NGVhLTliOWYtZTRlZjcxYzVhZTdjXkEyXkFqcGdeQXVyMjExNjgyMTc@._V1_FMjpg_UX1000_.jpg",
-            "next-head-count": "35",
-            "twitter:image:alt":
-              "Tanghi argentini: Directed by Guy Thys. With Dirk van Dijck, Koen van Impe, Hilde Norga, Mathias Sercu. An office clerk with a hankering to tango enlists the support of a workplace colleague as he prepares for a date. It's Christmas time and the concept of giving assumes fairy tale proportions in this beguiling modern story.",
-            "twitter:site": "@IMDb",
-            "og:locale:alternate": "es_ES",
-            viewport: "width=device-width",
-            "twitter:description":
-              "Tanghi argentini: Directed by Guy Thys. With Dirk van Dijck, Koen van Impe, Hilde Norga, Mathias Sercu. An office clerk with a hankering to tango enlists the support of a workplace colleague as he prepares for a date. It's Christmas time and the concept of giving assumes fairy tale proportions in this beguiling modern story.",
-            "og:locale": "en_US",
-            "og:url": "https://www.imdb.com/title/tt0812387/",
-            "imdb:pagetype": "title",
-          },
-        ],
-        cse_image: [
-          {
-            src: "https://m.media-amazon.com/images/M/MV5BMGM4YmNkZDUtYzVkOS00NGVhLTliOWYtZTRlZjcxYzVhZTdjXkEyXkFqcGdeQXVyMjExNjgyMTc@._V1_FMjpg_UX1000_.jpg",
-          },
-        ],
+      title: "Tailwind CSS IntelliSense | Laravel News",
+      htmlTitle: "<b>Tailwind CSS</b> IntelliSense | Laravel News",
+      link: "https://laravelnews.imgix.net/images/tailwind-intellisense.jpg?ixlib=php-3.3.1",
+      displayLink: "laravel-news.com",
+      snippet: "Tailwind CSS IntelliSense | Laravel News",
+      htmlSnippet: "<b>Tailwind CSS</b> IntelliSense | Laravel News",
+      mime: "image/jpeg",
+      fileFormat: "image/jpeg",
+      image: {
+        contextLink: "https://laravel-news.com/tailwind-css-intellisense",
+        height: 1100,
+        width: 2200,
+        byteSize: 282961,
+        thumbnailLink:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWylgL-5yUIiT2Cwz-j0eu0FMdb--1BbAHgqXrIkXlk5gks2hPtg2Z0CM&s",
+        thumbnailHeight: 75,
+        thumbnailWidth: 150,
       },
     },
     {
       kind: "customsearch#result",
-      title: "tanghi - Wiktionary",
-      htmlTitle: "<b>tanghi</b> - Wiktionary",
-      link: "https://en.wiktionary.org/wiki/tanghi",
-      displayLink: "en.wiktionary.org",
-      snippet: "NounEdit. tanghi m. plural of tango.",
-      htmlSnippet: "NounEdit. <b>tanghi</b> m. plural of tango.",
-      cacheId: "qeTRzzwTiT0J",
-      formattedUrl: "https://en.wiktionary.org/wiki/tanghi",
-      htmlFormattedUrl: "https://en.wiktionary.org/wiki/<b>tanghi</b>",
-      pagemap: {
-        metatags: [
-          {
-            referrer: "origin",
-            "theme-color": "#eaecf0",
-            "og:type": "website",
-            viewport:
-              "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
-            "og:title": "tanghi - Wiktionary",
-            "format-detection": "telephone=no",
-          },
-        ],
-      },
-    },
-    {
-      kind: "customsearch#result",
-      title: "Reviews: Tanghi argentini - IMDb",
-      htmlTitle: "Reviews: <b>Tanghi</b> argentini - IMDb",
-      link: "https://www.imdb.com/title/tt0812387/reviews",
-      displayLink: "www.imdb.com",
-      snippet:
-        "Of the five nominees, TANGHI ARGENTINI is by far the most enjoyable and entertaining. However, I predict that AT NIGHT will win because of its amazing acting ...",
-      htmlSnippet:
-        "Of the five nominees, <b>TANGHI</b> ARGENTINI is by far the most enjoyable and entertaining. However, I predict that AT NIGHT will win because of its amazing acting&nbsp;...",
-      cacheId: "KKEUUluWKH0J",
-      formattedUrl: "https://www.imdb.com/title/tt0812387/reviews",
-      htmlFormattedUrl: "https://www.imdb.com/title/tt0812387/reviews",
-      pagemap: {
-        cse_thumbnail: [
-          {
-            src: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQednhrCesKKIKwOMMHg_MN49fhP4vVNFUmT0XPukHDC_I4quCTs_-FBE",
-            width: "163",
-            height: "310",
-          },
-        ],
-        metatags: [
-          {
-            pagetype: "title",
-            subpagetype: "reviews",
-            "og:image":
-              "https://m.media-amazon.com/images/M/MV5BMGM4YmNkZDUtYzVkOS00NGVhLTliOWYtZTRlZjcxYzVhZTdjXkEyXkFqcGdeQXVyMjExNjgyMTc@._V1_UY1200_CR135,0,630,1200_AL_.jpg",
-            "og:type": "video.movie",
-            "og:site_name": "IMDb",
-            handheldfriendly: "true",
-            "msvalidate.01": "C1DACEF2769068C0B0D2687C9E5105FA",
-            "og:title": "Reviews: Tanghi argentini - IMDb",
-            pageid: "tt0812387",
-            title: "Reviews: Tanghi argentini - IMDb",
-            "og:description": "Reviews: Tanghi argentini",
-            "fb:app_id": "115109575169727",
-            viewport:
-              "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no",
-            request_id: "NPZ0SZ6GAD84K96RTDBX",
-            "format-detection": "telephone=no",
-          },
-        ],
-        cse_image: [
-          {
-            src: "https://m.media-amazon.com/images/M/MV5BMGM4YmNkZDUtYzVkOS00NGVhLTliOWYtZTRlZjcxYzVhZTdjXkEyXkFqcGdeQXVyMjExNjgyMTc@._V1_UY1200_CR135,0,630,1200_AL_.jpg",
-          },
-        ],
-      },
-    },
-    {
-      kind: "customsearch#result",
-      title: "Watch Tanghi Argentini | Prime Video",
-      htmlTitle: "Watch <b>Tanghi</b> Argentini | Prime Video",
-      link: "https://www.amazon.com/Tanghi-Argentini-Dirk-van-Dijck/dp/B084YPPK14",
-      displayLink: "www.amazon.com",
-      snippet:
-        "Tanghi Argentini. (11). 7.713min20087+. An office clerk with a hankering to tango enlists the support of a workplace colleague as he prepares for a date.",
-      htmlSnippet:
-        "<b>Tanghi</b> Argentini. (11). 7.713min20087+. An office clerk with a hankering to tango enlists the support of a workplace colleague as he prepares for a date.",
-      cacheId: "IkOFi62xkNsJ",
-      formattedUrl:
-        "https://www.amazon.com/Tanghi-Argentini-Dirk-van.../B084YPPK14",
-      htmlFormattedUrl:
-        "https://www.amazon.com/<b>Tanghi</b>-Argentini-Dirk-van.../B084YPPK14",
-      pagemap: {
-        "": [{}],
-        cse_thumbnail: [
-          {
-            src: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9fUo7nELs1-yhNKCF2d4RDKo0AG-5c6QbCz7fYGXRD2c52W_VIHYAW4o",
-            width: "194",
-            height: "259",
-          },
-        ],
-        metatags: [
-          {
-            "og:image":
-              "https://images-na.ssl-images-amazon.com/images/I/61hZQrGNBAL._RI_.jpg",
-            "og:title": "Tanghi Argentini",
-            title: "Watch Tanghi Argentini | Prime Video",
-            "og:url":
-              "https://www.amazon.com/Tanghi-Argentini-Dirk-van-Dijck/dp/B084YPPK14",
-            "og:description":
-              "An office clerk with a hankering to tango enlists the support of a workplace colleague as he prepares for a date. It's Christmas time and the concept of giving assumes fairy tale proportions in this beguiling modern story. Academy Awards Nominee Best Live-Action Short Film.",
-          },
-        ],
-        cse_image: [
-          {
-            src: "https://images-na.ssl-images-amazon.com/images/I/61hZQrGNBAL._RI_.jpg",
-          },
-        ],
-      },
-    },
-    {
-      kind: "customsearch#result",
-      title: "Tanghi Argentini | Oscars Wiki | Fandom",
-      htmlTitle: "<b>Tanghi</b> Argentini | Oscars Wiki | Fandom",
-      link: "https://oscars.fandom.com/wiki/Tanghi_Argentini",
-      displayLink: "oscars.fandom.com",
-      snippet:
-        "Tanghi Argentini is a 2007 live action short film directed by Guido Thys and written by Geert Verbanck. Best Live Action Short — Guido Thys, Anja Daelemans ...",
-      htmlSnippet:
-        "<b>Tanghi</b> Argentini is a 2007 live action short film directed by Guido Thys and written by Geert Verbanck. Best Live Action Short — Guido Thys, Anja Daelemans&nbsp;...",
-      cacheId: "-LLe95_SSzkJ",
-      formattedUrl: "https://oscars.fandom.com/wiki/Tanghi_Argentini",
-      htmlFormattedUrl:
-        "https://oscars.fandom.com/wiki/<b>Tanghi</b>_Argentini",
-      pagemap: {
-        cse_thumbnail: [
-          {
-            src: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuzuC7Q3AWpGAxW8FceARETnoV5ZR43kIF554srCsHwGzFpAMGHCEwq84",
-            width: "250",
-            height: "65",
-          },
-        ],
-        metatags: [
-          {
-            "apple-itunes-app": "app-id=1230063803",
-            "og:image":
-              "https://static.wikia.nocookie.net/oscars/images/e/e6/Site-logo.png/revision/latest?cb=20211006080254",
-            "og:type": "article",
-            "theme-color": "#eaecf0",
-            "twitter:card": "summary",
-            "twitter:title": "Tanghi Argentini | Oscars Wiki | Fandom",
-            "og:site_name": "Oscars Wiki",
-            "twitter:url": "https://oscars.fandom.com/wiki/Tanghi_Argentini",
-            "og:title": "Tanghi Argentini",
-            "og:description":
-              "Tanghi Argentini is a 2007 live action short film directed by Guido Thys and written by Geert Verbanck. Best Live Action Short — Guido Thys, Anja Daelemans A few weeks before Christmas, André, a chubby middle-aged office worker in Ghent, arranges an Internet date with a woman who tangos. Trouble is, André doesn't know how to dance, so he begs Frans, a co-worker, to teach him. Frans refuses - he's a superior type, proper, erect, immaculately, separate from the others, while Andre is a bit of a sh",
-            "fb:app_id": "112328095453510",
-            "twitter:site": "@getfandom",
-            viewport:
-              "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
-            "twitter:description":
-              "Tanghi Argentini is a 2007 live action short film directed by Guido Thys and written by Geert Verbanck. Best Live Action Short — Guido Thys, Anja Daelemans A few weeks before Christmas, André, a...",
-            "og:url": "https://oscars.fandom.com/wiki/Tanghi_Argentini",
-            "format-detection": "telephone=no",
-          },
-        ],
-        videoobject: [
-          {
-            duration: "PT01M52S",
-            contenturl: "https://cdn.jwplayer.com/videos/IUJIsCEZ-cSpmBcaY.mp4",
-            uploaddate: "2022-06-09T06:13:00+00:00",
-            name: "Wiki Targeted (Entertainment)",
-            thumbnailurl:
-              "https://cdn.jwplayer.com/v2/media/IUJIsCEZ/poster.jpg?width=720",
-          },
-        ],
-        cse_image: [
-          {
-            src: "https://static.wikia.nocookie.net/oscars/images/e/e6/Site-logo.png/revision/latest?cb=20211006080254",
-          },
-        ],
+      title: "Designing with Tailwind CSS",
+      htmlTitle: "Designing with <b>Tailwind CSS</b>",
+      link: "https://v1.tailwindcss.com/_next/static/media/workcation-screenshot.e15fad2353857da51319620da615ff93.jpg",
+      displayLink: "v1.tailwindcss.com",
+      snippet: "Designing with Tailwind CSS",
+      htmlSnippet: "Designing with <b>Tailwind CSS</b>",
+      mime: "image/jpeg",
+      fileFormat: "image/jpeg",
+      image: {
+        contextLink: "https://v1.tailwindcss.com/course",
+        height: 1059,
+        width: 1473,
+        byteSize: 159308,
+        thumbnailLink:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_G2HsPrg1S6oU3TvAfubMUxncbGChfjrSGmuIlvbqu2CdyuQHoejukQ&s",
+        thumbnailHeight: 108,
+        thumbnailWidth: 150,
       },
     },
     {
       kind: "customsearch#result",
       title:
-        "Tanghi | Content Creator (@_only_tanghi_) • Instagram photos and ...",
+        "The first alpha of Tailwind CSS v3 is now released | Laravel News",
       htmlTitle:
-        "<b>Tanghi</b> | Content Creator (@_only_tanghi_) • Instagram photos and ...",
-      link: "https://www.instagram.com/_only_tanghi_/?hl=en",
-      displayLink: "www.instagram.com",
+        "The first alpha of <b>Tailwind CSS</b> v3 is now released | Laravel News",
+      link: "https://laravelnews.imgix.net/images/tailwindcss-1633184775.jpg?ixlib=php-3.3.1",
+      displayLink: "laravel-news.com",
       snippet:
-        "13.1k Followers, 121 Following, 360 Posts - See Instagram photos and videos from Tanghi | Content Creator (@_only_tanghi_)",
+        "The first alpha of Tailwind CSS v3 is now released | Laravel News",
       htmlSnippet:
-        "13.1k Followers, 121 Following, 360 Posts - See Instagram photos and videos from <b>Tanghi</b> | Content Creator (@_only_tanghi_)",
-      formattedUrl: "https://www.instagram.com/_only_tanghi_/?hl=en",
-      htmlFormattedUrl: "https://www.instagram.com/_only_<b>tanghi</b>_/?hl=en",
-      pagemap: {
-        xfn: [{}],
-        metatags: [
-          {
-            "og:image":
-              "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/277859998_1014290422540039_8717295039022975650_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=107&_nc_ohc=HM8wYjUfBf4AX8G0ec4&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT9FX028wzu9jYj4Av0Lthez46aveYjqDE-SY9ZtND9rfQ&oe=62B47928&_nc_sid=7bff83",
-            "theme-color": "#ffffff",
-            "og:type": "profile",
-            "al:ios:app_name": "Instagram",
-            "og:title":
-              "@_only_tanghi_ is on Instagram • 13.1k people follow their account",
-            "al:android:package": "com.instagram.android",
-            "al:ios:url": "instagram://user?username=_only_tanghi_",
-            "og:description":
-              "13.1k Followers, 121 Following, 360 Posts - See Instagram photos and videos from 𝙏𝙖𝙣𝙜𝙝𝙞 | 𝘾𝙤𝙣𝙩𝙚𝙣𝙩 𝘾𝙧𝙚𝙖𝙩𝙤𝙧 🦋 (@_only_tanghi_)",
-            "al:ios:app_store_id": "389801252",
-            "al:android:url": "https://www.instagram.com/_u/_only_tanghi_/",
-            "apple-mobile-web-app-status-bar-style": "default",
-            viewport:
-              "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover",
-            "mobile-web-app-capable": "yes",
-            "og:url": "https://www.instagram.com/_only_tanghi_/",
-            "al:android:app_name": "Instagram",
-          },
-        ],
-        cse_image: [
-          {
-            src: "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/277859998_1014290422540039_8717295039022975650_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=107&_nc_ohc=HM8wYjUfBf4AX8G0ec4&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT9FX028wzu9jYj4Av0Lthez46aveYjqDE-SY9ZtND9rfQ&oe=62B47928&_nc_sid=7bff83",
-          },
-        ],
+        "The first alpha of <b>Tailwind CSS</b> v3 is now released | Laravel News",
+      mime: "image/jpeg",
+      fileFormat: "image/jpeg",
+      image: {
+        contextLink: "https://laravel-news.com/tailwind-css-v3-alpha",
+        height: 1100,
+        width: 2200,
+        byteSize: 65562,
+        thumbnailLink:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsRmdk4jTMcMSzmbmoF20EoqSmX5CZzFE23Uu3SRZWLS6V7C9S11FWvS4&s",
+        thumbnailHeight: 75,
+        thumbnailWidth: 150,
       },
     },
     {
       kind: "customsearch#result",
-      title: "Tanghi argentini (2006) - Awards - IMDb",
-      htmlTitle: "<b>Tanghi</b> argentini (2006) - Awards - IMDb",
-      link: "https://m.imdb.com/title/tt0812387/awards/?ref_=tt_awd",
-      displayLink: "m.imdb.com",
-      snippet: "Tanghi argentini Awards and Nominations.",
-      htmlSnippet: "<b>Tanghi</b> argentini Awards and Nominations.",
-      cacheId: "MLjTfbw8xb8J",
-      formattedUrl: "https://m.imdb.com/title/tt0812387/awards/?ref_=tt_awd",
-      htmlFormattedUrl:
-        "https://m.imdb.com/title/tt0812387/awards/?ref_=tt_awd",
-      pagemap: {
-        cse_thumbnail: [
-          {
-            src: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQednhrCesKKIKwOMMHg_MN49fhP4vVNFUmT0XPukHDC_I4quCTs_-FBE",
-            width: "163",
-            height: "310",
-          },
-        ],
-        metatags: [
-          {
-            pagetype: "title",
-            subpagetype: "awards",
-            "og:image":
-              "https://m.media-amazon.com/images/M/MV5BMGM4YmNkZDUtYzVkOS00NGVhLTliOWYtZTRlZjcxYzVhZTdjXkEyXkFqcGdeQXVyMjExNjgyMTc@._V1_UY1200_CR135,0,630,1200_AL_.jpg",
-            "og:type": "video.movie",
-            "og:site_name": "IMDb",
-            handheldfriendly: "true",
-            "msvalidate.01": "C1DACEF2769068C0B0D2687C9E5105FA",
-            "og:title": "Tanghi argentini (2006) - IMDb",
-            pageid: "tt0812387",
-            title: "Tanghi argentini (2006) - IMDb",
-            "og:description": "Tanghi argentini Awards and Nominations",
-            "fb:app_id": "115109575169727",
-            viewport:
-              "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no",
-            request_id: "W8FF8XF4NB424P3PBZX5",
-            "format-detection": "telephone=no",
-          },
-        ],
-        cse_image: [
-          {
-            src: "https://m.media-amazon.com/images/M/MV5BMGM4YmNkZDUtYzVkOS00NGVhLTliOWYtZTRlZjcxYzVhZTdjXkEyXkFqcGdeQXVyMjExNjgyMTc@._V1_UY1200_CR135,0,630,1200_AL_.jpg",
-          },
-        ],
+      title: "Installation: Tailwind CLI - Tailwind CSS",
+      htmlTitle: "Installation: <b>Tailwind</b> CLI - <b>Tailwind CSS</b>",
+      link: "https://tailwindcss.com/_next/static/media/social-square.b622e290e82093c36cca57092ffe494f.jpg",
+      displayLink: "tailwindcss.com",
+      snippet: "Installation: Tailwind CLI - Tailwind CSS",
+      htmlSnippet: "Installation: <b>Tailwind</b> CLI - <b>Tailwind CSS</b>",
+      mime: "image/jpeg",
+      fileFormat: "image/jpeg",
+      image: {
+        contextLink: "https://tailwindcss.com/docs/installation",
+        height: 1200,
+        width: 1200,
+        byteSize: 21851,
+        thumbnailLink:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQctSGGENUdrM_-VfQruf8cKZjJpPdDYbl7l8NSADz_VvCPRonlBKC7_IUc&s",
+        thumbnailHeight: 150,
+        thumbnailWidth: 150,
       },
     },
     {
       kind: "customsearch#result",
-      title: "Tanghi Argentini (Film) - TV Tropes",
-      htmlTitle: "<b>Tanghi</b> Argentini (Film) - TV Tropes",
-      link: "https://tvtropes.org/pmwiki/pmwiki.php/Film/TanghiArgentini",
-      displayLink: "tvtropes.org",
-      snippet:
-        "Tanghi Argentini is a 2006 short film (13 minutes) from Belgium directed by Guido Thys. Andre is an office worker in Ghent. He has struck up an internet …",
+      title: "How to Use Tailwind CSS to Rapidly Develop Snazzy Websites",
+      htmlTitle:
+        "How to Use <b>Tailwind CSS</b> to Rapidly Develop Snazzy Websites",
+      link: "https://kinsta.com/wp-content/uploads/2022/01/tailwind-css.jpg",
+      displayLink: "kinsta.com",
+      snippet: "How to Use Tailwind CSS to Rapidly Develop Snazzy Websites",
       htmlSnippet:
-        "<b>Tanghi</b> Argentini is a 2006 short film (13 minutes) from Belgium directed by Guido Thys. Andre is an office worker in Ghent. He has struck up an internet …",
-      cacheId: "-YiqLKJTjOcJ",
-      formattedUrl:
-        "https://tvtropes.org/pmwiki/pmwiki.php/Film/TanghiArgentini",
-      htmlFormattedUrl:
-        "https://tvtropes.org/pmwiki/pmwiki.php/Film/<b>Tanghi</b>Argentini",
-      pagemap: {
-        cse_thumbnail: [
-          {
-            src: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJ3qAa8jcCyLbEHcNLxJlkuX3wLUvQsitm_hHYIU3ua_KW9GlRWfBHTES6",
-            width: "183",
-            height: "275",
-          },
-        ],
-        metatags: [
-          {
-            "og:image":
-              "https://static.tvtropes.org/pmwiki/pub/images/kkh9jcnoobofbrbkepzisnkqkho.jpg",
-            "twitter:card": "summary_large_image",
-            "twitter:title": "Tanghi Argentini (Film) - TV Tropes",
-            "og:type": "video.movie",
-            "og:site_name": "TV Tropes",
-            "og:title": "Tanghi Argentini",
-            "og:description":
-              "Tanghi Argentini is a 2006 short film (13 minutes) from Belgium directed by Guido Thys. Andre is an office worker in Ghent. He has struck up an internet romance with a lady named Suzanne. The only problem is, Andre met Suzanne in an internet …",
-            "article:publisher": "https://www.facebook.com/tvtropes",
-            "twitter:image:src":
-              "https://static.tvtropes.org/pmwiki/pub/images/kkh9jcnoobofbrbkepzisnkqkho.jpg",
-            "twitter:site": "@tvtropes",
-            viewport: "width=device-width, initial-scale=1",
-            "twitter:description":
-              "Tanghi Argentini is a 2006 short film (13 minutes) from Belgium directed by Guido Thys. Andre is an office worker in Ghent. He has struck up an internet …",
-            "og:locale": "en_US",
-            "og:url":
-              "https://tvtropes.org/pmwiki/pmwiki.php/Film/TanghiArgentini",
-            "twitter:owner": "@tvtropes",
-          },
-        ],
-        cse_image: [
-          {
-            src: "https://static.tvtropes.org/pmwiki/pub/images/kkh9jcnoobofbrbkepzisnkqkho.jpg",
-          },
-        ],
+        "How to Use <b>Tailwind CSS</b> to Rapidly Develop Snazzy Websites",
+      mime: "image/jpeg",
+      fileFormat: "image/jpeg",
+      image: {
+        contextLink: "https://kinsta.com/blog/tailwind-css/",
+        height: 730,
+        width: 1460,
+        byteSize: 37657,
+        thumbnailLink:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx8WQEjLzHsxwNoMVlRTX54u5GtDclRAHAGPFZh524kVua4AqoHYisNMw&s",
+        thumbnailHeight: 75,
+        thumbnailWidth: 150,
       },
     },
     {
       kind: "customsearch#result",
-      title: "Tanghi argentini (2006) - Connections - IMDb",
-      htmlTitle: "<b>Tanghi</b> argentini (2006) - Connections - IMDb",
-      link: "https://m.imdb.com/title/tt0812387/movieconnections/?ref_=tt_trv_cnn",
-      displayLink: "m.imdb.com",
-      snippet:
-        "Tanghi argentini (2006) Connections on IMDb: Referenced in, Featured in, Spoofed and more...",
-      htmlSnippet:
-        "<b>Tanghi</b> argentini (2006) Connections on IMDb: Referenced in, Featured in, Spoofed and more...",
-      cacheId: "Efr_WD6ytqAJ",
-      formattedUrl:
-        "https://m.imdb.com/title/tt0812387/movieconnections/?ref_=tt_trv_cnn",
-      htmlFormattedUrl:
-        "https://m.imdb.com/title/tt0812387/movieconnections/?ref_=tt_trv_cnn",
-      pagemap: {
-        cse_thumbnail: [
-          {
-            src: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQednhrCesKKIKwOMMHg_MN49fhP4vVNFUmT0XPukHDC_I4quCTs_-FBE",
-            width: "163",
-            height: "310",
-          },
-        ],
-        metatags: [
-          {
-            pagetype: "title",
-            subpagetype: "connections",
-            "og:image":
-              "https://m.media-amazon.com/images/M/MV5BMGM4YmNkZDUtYzVkOS00NGVhLTliOWYtZTRlZjcxYzVhZTdjXkEyXkFqcGdeQXVyMjExNjgyMTc@._V1_UY1200_CR135,0,630,1200_AL_.jpg",
-            "theme-color": "#000000",
-            "og:type": "video.movie",
-            "og:site_name": "IMDb",
-            "og:title": "Tanghi argentini (2006) - IMDb",
-            pageid: "tt0812387",
-            title: "Tanghi argentini (2006) - IMDb",
-            "og:description":
-              "Tanghi argentini (2006) Connections on IMDb: Referenced in, Featured in, Spoofed and more...",
-            "fb:app_id": "115109575169727",
-            "og:url": "http://www.imdb.com/title/tt0812387/movieconnections/",
-            request_id: "GFV8T16SNMGYN6YE80AV",
-          },
-        ],
-        cse_image: [
-          {
-            src: "https://m.media-amazon.com/images/M/MV5BMGM4YmNkZDUtYzVkOS00NGVhLTliOWYtZTRlZjcxYzVhZTdjXkEyXkFqcGdeQXVyMjExNjgyMTc@._V1_UY1200_CR135,0,630,1200_AL_.jpg",
-          },
-        ],
+      title: "Tailwind CSS Starter Kit | Drupal.org",
+      htmlTitle: "<b>Tailwind CSS</b> Starter Kit | Drupal.org",
+      link: "https://www.drupal.org/files/project-images/screenshot_361.png",
+      displayLink: "www.drupal.org",
+      snippet: "Tailwind CSS Starter Kit | Drupal.org",
+      htmlSnippet: "<b>Tailwind CSS</b> Starter Kit | Drupal.org",
+      mime: "image/png",
+      fileFormat: "image/png",
+      image: {
+        contextLink: "https://www.drupal.org/project/tailwindcss",
+        height: 400,
+        width: 400,
+        byteSize: 7158,
+        thumbnailLink:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQniGOFIc0T_Pxp6gVSF0zDGIbdKfIUgHYNI0CAlwzuQr76oorrLhnj5A&s",
+        thumbnailHeight: 124,
+        thumbnailWidth: 124,
       },
     },
     {
       kind: "customsearch#result",
       title:
-        '"Tanghi Argentini" Short Film Analysis by Jordan Miller on Prezi Next',
+        "State of CSS 2020 Survey Results: Tailwind CSS Wins Most Adopted ...",
       htmlTitle:
-        "&quot;<b>Tanghi</b> Argentini&quot; Short Film Analysis by Jordan Miller on Prezi Next",
-      link: "https://prezi.com/vd_wg2ttlbas/tanghi-argentini-short-film-analysis/",
-      displayLink: "prezi.com",
+        "State of <b>CSS</b> 2020 Survey Results: <b>Tailwind CSS</b> Wins Most Adopted ...",
+      link: "https://149611589.v2.pressablecdn.com/wp-content/uploads/2020/12/state-of-css-2020.png",
+      displayLink: "wptavern.com",
       snippet:
-        "Tanghi Argentini · Andre - protagonist. He is the main character and who the audience identifies with. · Frans - supporting lead character. He is taller, younger ...",
+        "State of CSS 2020 Survey Results: Tailwind CSS Wins Most Adopted ...",
       htmlSnippet:
-        "<b>Tanghi</b> Argentini &middot; Andre - protagonist. He is the main character and who the audience identifies with. &middot; Frans - supporting lead character. He is taller, younger&nbsp;...",
-      cacheId: "ASbB3yeLkv0J",
-      formattedUrl:
-        "https://prezi.com/vd_wg2ttlbas/tanghi-argentini-short-film-analysis/",
-      htmlFormattedUrl:
-        "https://prezi.com/vd_wg2ttlbas/<b>tanghi</b>-argentini-short-film-analysis/",
-      pagemap: {
-        cse_thumbnail: [
-          {
-            src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMPl0ZRGFLnPR9RRR9cfZr2BLhKYqvY2RMLwdz1ocLkFNM3z3oGd6yYcQ",
-            width: "284",
-            height: "177",
-          },
-        ],
-        metatags: [
-          {
-            "og:image":
-              "https://0901.static.prezi.com/preview/v2/lkszes3els7zpymwzch35kvdx76jc3sachvcdoaizecfr3dnitcq_3_0.png",
-            "og:type": "website",
-            "twitter:card": "summary_large_image",
-            "twitter:title": '"Tanghi Argentini" Short Film Analysis',
-            "og:site_name": "prezi.com",
-            "twitter:domain": "prezi.com",
-            "msvalidate.01": "256D24D16694018A98CD38E3CB2E4132",
-            "twitter:url":
-              "https://prezi.com/vd_wg2ttlbas/tanghi-argentini-short-film-analysis/?fallback=1",
-            "og:title": '"Tanghi Argentini" Short Film Analysis',
-            y_key: "c35eebc2904a0fbc",
-            "og:description":
-              'Analysis of the structure of the short film "Tanghi Argentini" by Guy Thys',
-            "twitter:image":
-              "https://0901.static.prezi.com/preview/v2/lkszes3els7zpymwzch35kvdx76jc3sachvcdoaizecfr3dnitcq_3_0.png",
-            "fb:app_id": "298315034451",
-            viewport: "width=device-width, initial-scale=1",
-            "twitter:description":
-              'Analysis of the structure of the short film "Tanghi Argentini" by Guy Thys',
-            "og:url":
-              "https://prezi.com/vd_wg2ttlbas/tanghi-argentini-short-film-analysis/?fallback=1",
-            "twitter:account_id": "35860484",
-          },
-        ],
-        cse_image: [
-          {
-            src: "https://0901.static.prezi.com/preview/v2/lkszes3els7zpymwzch35kvdx76jc3sachvcdoaizecfr3dnitcq_3_0.png",
-          },
-        ],
+        "State of <b>CSS</b> 2020 Survey Results: <b>Tailwind CSS</b> Wins Most Adopted ...",
+      mime: "image/png",
+      fileFormat: "image/png",
+      image: {
+        contextLink:
+          "https://wptavern.com/state-of-css-2020-survey-results-tailwind-css-wins-most-adopted-technology-utility-first-css-on-the-rise",
+        height: 1210,
+        width: 2100,
+        byteSize: 336654,
+        thumbnailLink:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7J4T3nFo1ik-axOhMsUXO3h-t9yZNAP09VeI06nv1l2QMmBCz4zvU7eo&s",
+        thumbnailHeight: 86,
+        thumbnailWidth: 150,
+      },
+    },
+    {
+      kind: "customsearch#result",
+      title: "Tailwind CSS v3.0 – Tailwind CSS",
+      htmlTitle: "<b>Tailwind CSS</b> v3.0 – <b>Tailwind CSS</b>",
+      link: "https://tailwindcss.com/_next/static/media/card.f6878fd8df804f73ba3f1a271122105a.jpg",
+      displayLink: "tailwindcss.com",
+      snippet: "Tailwind CSS v3.0 – Tailwind CSS",
+      htmlSnippet: "<b>Tailwind CSS</b> v3.0 – <b>Tailwind CSS</b>",
+      mime: "image/jpeg",
+      fileFormat: "image/jpeg",
+      image: {
+        contextLink: "https://tailwindcss.com/blog/tailwindcss-v3",
+        height: 1280,
+        width: 2560,
+        byteSize: 95493,
+        thumbnailLink:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8BXRzfwyvYHJR6M6joXG-PpwNS2aOyzVDqSg5RqAMA7F_mkcSBXzYog&s",
+        thumbnailHeight: 75,
+        thumbnailWidth: 150,
+      },
+    },
+    {
+      kind: "customsearch#result",
+      title: "Tailwind CSS - GeeksforGeeks",
+      htmlTitle: "<b>Tailwind CSS</b> - GeeksforGeeks",
+      link: "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20211110050115/Tailwind-CSS-Tutorial.png",
+      displayLink: "www.geeksforgeeks.org",
+      snippet: "Tailwind CSS - GeeksforGeeks",
+      htmlSnippet: "<b>Tailwind CSS</b> - GeeksforGeeks",
+      mime: "image/png",
+      fileFormat: "image/png",
+      image: {
+        contextLink: "https://www.geeksforgeeks.org/tailwind-css/",
+        height: 413,
+        width: 1000,
+        byteSize: 44789,
+        thumbnailLink:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpl6fnpcLSSyAM6pP7Pj5Y9n2jcWT46S75sZTiDiZ9RFV8UiiDd_vTbA&s",
+        thumbnailHeight: 62,
+        thumbnailWidth: 149,
+      },
+    },
+    {
+      kind: "customsearch#result",
+      title:
+        "Material Tailwind Kit React: Free Tailwind CSS & Material Design ...",
+      htmlTitle:
+        "Material <b>Tailwind</b> Kit React: Free <b>Tailwind CSS</b> &amp; Material Design ...",
+      link: "https://s3.amazonaws.com/creativetim_bucket/products/486/original/opt_mtr_thumbnail.jpg?1623313854",
+      displayLink: "www.creative-tim.com",
+      snippet:
+        "Material Tailwind Kit React: Free Tailwind CSS & Material Design ...",
+      htmlSnippet:
+        "Material <b>Tailwind</b> Kit React: Free <b>Tailwind CSS</b> &amp; Material Design ...",
+      mime: "image/jpeg",
+      fileFormat: "image/jpeg",
+      image: {
+        contextLink:
+          "https://www.creative-tim.com/product/material-tailwind-kit-react",
+        height: 600,
+        width: 800,
+        byteSize: 90436,
+        thumbnailLink:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX-wHY-cczVV_RC0ru4LDgYnmVdwBFYOa8qhlWYV0kIhWdjQ44ectkwdM&s",
+        thumbnailHeight: 107,
+        thumbnailWidth: 143,
       },
     },
   ],
