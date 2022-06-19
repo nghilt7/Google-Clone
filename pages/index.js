@@ -15,6 +15,14 @@ export default function Home() {
     if (!term.trim()) return;
     router.push(`/search?term=${term.trim()}&searchType=`);
   }
+  async function randomSearch(event) {
+    event.preventDefault();
+    const randomTerm = await (
+      await fetch("https://random-word-api.herokuapp.com/word?number=1")
+    ).json();
+    if (!randomTerm) return;
+    router.push(`/search?term=${randomTerm}&searchType=`);
+  }
   return (
     <div>
       <Head>
@@ -34,7 +42,7 @@ export default function Home() {
           width="300"
           objectFit="cover"
           height="100"
-          src="https://media1.nguoiduatin.vn/media/vu-thu-huong/2019/12/19/anh-google.png"
+          src="/logo.png"
           alt="Photo"
         />
         <div className="flex w-full mt-5 mx-auto max-w-[90%] border-gary-200 hover:shadow-lg focus-within:shadow-lg px-5 py-3 rounded-full items-center sm:max-w-xl lg:max-w-2x1">
@@ -50,7 +58,9 @@ export default function Home() {
           <button onClick={search} className="btn">
             Google Search
           </button>
-          <button className="btn">I Feeling Lucky</button>
+          <button onClick={randomSearch} className="btn">
+            I&apos;m Feeling Lucky
+          </button>
         </div>
       </form>
 

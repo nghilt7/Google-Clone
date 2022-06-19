@@ -19,11 +19,11 @@ export default function SearchHeader() {
       <div className="flex w-full p-6 items-center">
         <Image
           onClick={() => router.push("/")}
-          width="220"
+          width="140"
           objectFit="contain"
-          height="140"
+          height="80"
           className="cursor-pointer"
-          src="https://media1.nguoiduatin.vn/media/vu-thu-huong/2019/12/19/anh-google.png"
+          src="/logo.png"
           alt="Photo"
         />
         <form className="flex border border-gray-200 rounded-full shadow-lg px-6 py-3 ml-10 mr-5 flex-grow max-w-3xl items-center">
